@@ -74,3 +74,7 @@ Random Forest and XGBoost achieved the best performance for customer churn predi
 
 ---
 
+## Author
+
+- Avreet
+
