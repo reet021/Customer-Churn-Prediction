@@ -54,14 +54,12 @@ The project uses data preprocessing, feature engineering, SMOTE for handling cla
 
 ---
 
-## Results
+## Key Results
 
-The models were evaluated using:
-
-- Accuracy Score
-- Confusion Matrix
-- Classification Report
-- Cross Validation Score
+- Performed data preprocessing and feature engineering.
+- Handled class imbalance using SMOTE.
+- Trained Decision Tree, Random Forest, and XGBoost models.
+- Evaluated models using Accuracy Score, Confusion Matrix, and Classification Report.
 
 Random Forest and XGBoost achieved the best performance for customer churn prediction.
 
